@@ -21,6 +21,5 @@ public class Mostrador {
 
         mostrarMatrizR(matriz,indexX+1,indexJ);
         mostrarMatrizR(matriz,indexX-(matriz.length-1),indexJ+1);
-
     }
 }
